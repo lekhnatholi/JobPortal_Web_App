@@ -6,7 +6,7 @@ Job portal web application built with [React](https://github.com/facebook/react/
 
 #### Installation
 <ol>
-    <li>git clone https://github.com/maddyhunter76/Jobportal-Web-App.git</li>
+    <li>git clone https://github.com/lekhnatholi/JobPortal_Web_App.git</li>
     <li>cd Jobportal-Web-App </li>
     <li>npm install</li>
     <li>npm start</li>
